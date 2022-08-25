@@ -1,8 +1,7 @@
-# PyTorch CIFAR10 Classification & Feature Exploration & Colorization
+# Designed Deep Learning Practical Assignments (PyTorch) for AI Course
 
-Designed Deep Learning practical assignment for AI course (Spring 2022)
 
-## Content:
+## Spring 2022:
 - [x] Classification
   - [x] Transforms & Dataset & Dataloader
   - [x] Visualization
@@ -15,3 +14,19 @@ Designed Deep Learning practical assignment for AI course (Spring 2022)
   - [x] Custom Dataset
   - [x] Model (UNet)
   - [x] Visualization and Train and Evaluation
+
+
+## Fall 2022:
+- [x] Autograd Intro
+- [x] Transforms Intro
+  - [x] Custom Transform
+  - [x] Visualization
+- [x] Dataset Into
+  - [x] Custom Dataset
+  - [x] Visualization
+- [x] MNIST Classification
+  - [x] Model
+  - [x] Dataset and Dataloader and Transform
+  - [x] Train
+  - [x] Evaluation
+  - [x] Visualization
